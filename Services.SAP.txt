@@ -1,0 +1,126 @@
+
+// List of services on SAP cloud platform
+// SAP Cloud Platform Cockpit
+Home - Services (All: 68)
+Analytics
+Predictive Service (Perform predictive analysis on data in your SAP HANA database on SAP Cloud Platform)
+SAP Analytics Cloud (All-in-one cloud platform for business intelligence, planning, and predictive analytics)
+Smart Business Service (Helps visualizing and embedding analytical content in individual Fiori applications, tiles and interactive dashboards)
+Streaming Analytics (Analyze and transform streams of messages or events as fast as they arrive)
+
+Business Services
+Data Quality Services(Embed data quality services to validate addresses and enrich with geocodes around the globe)
+Market Rates Management(Get daily and historical currency exchange rates from the European Central Bank)
+SAP RealSpend (Helps to build novel apps on SAP Cloud Platform incorporating financial data from S/4HANA)
+Tax Service (Determine and compute indirect tax. Supports tax compliance in 120 countries)
+
+Collaboration
+Gamification(Allows to rapidly introduce gamification concepts into your applications)
+Live Link for IN365-Email(Combine global delivery with a rich feature set to enable customer engagement by using email)
+SAP Document Center(Formerly known as SAP Mobile Documents. Enables you to simplify file access for your enterprise)
+SAP Jam(Build socially-infused applications and benefit from secure, social collaboration)
+
+Data & Storage
+Big Data Services(Complete Big Data as a Service offering: Hadoop, Spark, and other data science tools)
+Document Service(Store and manage all your documents)
+MongoDB(Store JSON-like documents in a document-oriented database)
+Object Store(Highly-available and distributed object store)
+PostgreSQL(Relational database with an object-oriented model)
+Redis(Use Redis to store data structures, in-memory)
+SAP ASE(Set up and manage SAP Adaptive Server Enterprise (ASE) databases and bind them to cloud applications)
+SAP HANA(Set up and manage SAP HANA databases and bind them to cloud applications)
+
+DevOps
+Application Autoscaler(Automatically increase or decrease the number of application instances based on a policy you define)
+Corp. Git Link for SAP Web IDE(Enables you to subscribe to Orion and manage connectivity to your Git repository)
+Debugging Service(Debug your Java application even through networks with high latency)
+Feature Flags(Control the rollout of new features)
+Git Service(Allows to store and version source code in Git repositories)
+Java Apps Lifecycle Management(Manages the lifecycle of Java applications using the service REST API)
+Job Scheduler BETA (Allows you to define and manage your jobs that run on one-time or recurring schedules)
+Logging Services(Create, access, and analyze application logs)
+Monitoring Service(Access health status and metrics of Java applications)
+Profiling Service(Profile your Java applications and use different kinds of analysis)
+SAP RAD by Mendix(Develop SAP business applications for SAP Cloud Platform with a low-code, graphical toolset)
+SAP Translation Hub(Translate UI texts and get suggestions for these texts during development)
+SAP Web IDE(A web-based tool that enables you to create and extend end user applications for browsers and mobile devices)
+SAP Web IDE Full-Stack(A web-based IDE that enables you to create and extend end-to-end SAP full-stack applications for browsers and mobile devices.
+Solutions Lifecycle Management(Deploy, subscribe and transport Solutions using Multi-Target Applications (MTA))
+
+Integration
+API Management(Expose your data and processes as APIs for omni-channel consumption and manage the lifecycle of those APIs)
+Business Rules(Enriches SAP Cloud offering with decisions modeling, management and execution services, as part of the SAP Cloud Platform.
+Cloud Integration(Facilitates the integration of business processes)
+Connectivity(Establishes secure and reliable connectivity between cloud applications and on-premise systems)
+Destination
+Provides a secure and reliable access to destination configurations.
+OData Provisioning
+Provides REST/OData services based on SAP Gateway content in the Application Server ABAP.
+RabbitMQ
+Use RabbitMQ for robust asynchronous messaging between applications.
+SAP API Business Hub
+Discover, explore and test the APIs offered by SAP.
+Workflow
+Automate business processes using workflow technology.
+Internet of Things
+Internet of Things
+Enables customers and partners to develop, customize, and operate IoT business applications in the cloud.
+Remote Data Sync
+Allows data synchronization between remote databases and a consolidated HANA database on SAP Cloud Platform.
+SAP IoT Application Enablement
+Provides REST-based services and tools to easily create IoT applications.
+SAP IoT Connect 365
+Simplifies the complex connectivity, scalability, and management of IoT.
+Machine Learning
+SAP Leonardo Machine Learning
+Provides machine learning readily consumable services using pre-trained models.
+Mobile Services
+Agentry
+Develop and Run Agentry metadata-driven mobile applications in SAP Cloud environment.
+App & Device Management
+Manage and secure mobile apps and devices.
+Development & Operations, std
+Build and run mobile apps for B2E and B2B use cases.
+Fiori Mobile
+Optimize, build, manage and monitor SAP Fiori apps on mobile devices.
+Live Link for SMS365
+Combine global delivery with a rich feature set to enable businesses to engage customers using SMS.
+Runtimes & Containers
+Virtual Machines
+Virtualized hardware resources (CPU, RAM, disk space, installed OS) to install and maintain your own Linux-based software.
+Security
+Authorization & Trust Management
+Manage application authorizations and trust to identity providers.
+Identity Authentication
+Provides services for user login, registration, authentication, and access to SAP Cloud Platform applications.
+Identity Directory
+BETA
+Stores and manages users and groups in the Identity Provisioning service.
+Identity Provisioning
+Automates provisioning and de-provisioning of identities and authorizations for cloud applications.
+Keystore Service
+Secure repository for cryptographic keys and certificates.
+Live Link for Authentication 365
+Supports generation and validation of OTP's or verification codes with a variety of configurable features.
+OAuth 2.0 Service
+Protect applications and APIs with OAuth 2.0.
+Platform Identity Provider
+Use your own Identity Authentication tenant for managing your account members, configuring strong authentication and much more.
+User Experience
+Build
+Create user-friendly interactive prototypes, based on end-user feedback studies, without writing any code.
+Feedback Service
+BETA
+Collect and analyze user feedback for your applications.
+Forms by Adobe
+Generates print and interactive forms using Adobe Document Services.
+Portal
+Create freestyle and SAP Fiori launchpad style business sites for employees, customers, and partners.
+UI Theme Designer
+Create custom themes to apply your corporate branding to your SAP Fiori launchpad (Portal) and SAPUI5 applications.
+
+
+
+
+
+
